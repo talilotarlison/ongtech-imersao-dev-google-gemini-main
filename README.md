@@ -1,6 +1,6 @@
 # Projeto Feito durante a Imersão Dev Alura + Google Gemini
 ##### Projeto feito no evento da Alura + Google, além do conhecimento obtidos nas aulas do evento, foi usando o Gemini IA para criar ideias ajudar no codigo e construir os textos.
-
+* [Ir para o site ONGTech](https://talilotarlison.github.io/ongtech-imersao-dev-google-gemini-main/)
 ## ONGTech: Conectando Pessoas e Causas
 ## Sobre a ONGTech
 A ONGTech é uma plataforma digital brasileira que visa revolucionar a forma como as pessoas encontram e apoiam organizações sociais. Nossa missão é criar um ecossistema colaborativo onde ONGs de todo o país possam conectar-se com doadores e voluntários, amplificando o impacto social.

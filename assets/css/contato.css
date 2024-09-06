@@ -1,0 +1,65 @@
+.contact-form {
+    height: 50rem;
+    margin: 0 35rem;
+    width: 70rem;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+form{
+    padding: 0;
+    margin: 0;
+}
+
+label {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    display: flex;
+    width: 49rem;
+    height: 3.2rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: solid #118f5d30 1px !important;
+    border-radius: 4rem;
+    padding: 0 0.7rem;
+    margin-bottom: 1rem;
+    background-color: #ffffff;
+}
+
+.button-form {
+    padding: 0.8rem 1.2rem;
+    /* Espaçamento interno do botão */
+    border: none;
+    /* Remove a borda padrão */
+    border-radius: 0.4rem;
+    /* Borda arredondada */
+    background-color: #9c1556;
+    /* Cor de fundo do botão */
+    color: #F5F7F8;
+    /* Cor do texto do botão */
+    font-size: 1rem;
+    /* Tamanho da fonte */
+    cursor: pointer;
+    /* Muda o cursor para indicar que é clicável */
+    opacity: 0.8;
+    box-shadow: rgba(3, 101, 214, 0.311) 0px 0px 0px 3px;
+    margin: 0 0.4rem;
+}
+
+a.button-form {
+    box-shadow: rgba(3, 101, 214, 0.311) 0px 0px 0px 3px;
+    background-color: #2229e8;
+    text-decoration: none;
+}
+
+a.button-form:hover {
+    background-color: #159c71;
+    opacity: 0.8;
+}

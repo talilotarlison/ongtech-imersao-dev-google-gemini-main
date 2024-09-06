@@ -1,5 +1,5 @@
 # Projeto Feito durante a Imersão Dev Alura + Google Gemini
-##### Projeto feito no evento da Alura + Google, além do conhecimento obtidos nas aulas do evento, foi usando o Gemini IA para criar ideias ajudar no codigo e construir os textos.
+##### O meu projeto chama-se ONGTech, seguindo a dinâmica do curso ele tem como finalidade ser um buscador confiável de ONGs, onde as pessoas podem encontra e fazer suas doações, Projeto feito no evento da Alura + Google, além do conhecimento obtidos nas aulas do evento, foi usando o Gemini IA para criar ideias ajudar no código e construir os textos.
 * [Ir para o site ONGTech](https://talilotarlison.github.io/ongtech-imersao-dev-google-gemini-main/)
 ## ONGTech: Conectando Pessoas e Causas
 ## Sobre a ONGTech

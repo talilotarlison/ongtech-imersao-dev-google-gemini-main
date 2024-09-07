@@ -100,7 +100,7 @@ header h1 a {
 
 /*Sessao apresentação*/
 .apresentacao {
-    height: 60vh;
+    height: 80vh;
     width: 50rem;
     margin: 0 auto;
     display: flex;
@@ -109,7 +109,7 @@ header h1 a {
     flex-direction: column;
     align-content: center;
     gap: 3rem;
-    margin-top: 10.5rem;
+    margin-top: 30.5rem;
 }
 
 .apresentacao h1 {
@@ -346,7 +346,7 @@ footer {
     }
 
     .apresentacao {
-        height: 30rem;
+        height: 50rem;
         width: 30rem;
     }
 
